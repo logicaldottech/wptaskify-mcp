@@ -3,8 +3,12 @@
   "name": "com.wptaskify/store",
   "title": "wptaskify for stores",
   "description": "Let your AI manage WooCommerce and Shopify stores: products, SEO, descriptions and images.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://wptaskify.com/developers",
+  "repository": {
+    "url": "https://github.com/logicaldottech/wptaskify-mcp",
+    "source": "github"
+  },
   "icons": [
     {
       "src": "https://wptaskify.com/assets/apple-touch-icon.png",

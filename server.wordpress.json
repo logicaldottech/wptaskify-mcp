@@ -3,8 +3,12 @@
   "name": "com.wptaskify/wordpress",
   "title": "wptaskify for WordPress",
   "description": "Let Claude, ChatGPT or any MCP client run your WordPress site, Pinterest and Search Console.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://wptaskify.com/developers",
+  "repository": {
+    "url": "https://github.com/logicaldottech/wptaskify-mcp",
+    "source": "github"
+  },
   "icons": [
     {
       "src": "https://wptaskify.com/assets/apple-touch-icon.png",
