@@ -1,0 +1,23 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.wptaskify/wordpress",
+  "title": "wptaskify for WordPress",
+  "description": "Let Claude, ChatGPT or any MCP client run your WordPress site, Pinterest and Search Console.",
+  "version": "1.0.0",
+  "websiteUrl": "https://wptaskify.com/developers",
+  "icons": [
+    {
+      "src": "https://wptaskify.com/assets/apple-touch-icon.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "180x180"
+      ]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://wptaskify.com/mcp"
+    }
+  ]
+}
